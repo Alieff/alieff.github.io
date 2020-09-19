@@ -1,0 +1,38 @@
+@font-face {
+  font-family: caveatBold;
+  src: url(font/Caveat-Bold.ttf);
+}
+
+@font-face {
+  font-family: caveatRegular;
+  src: url(font/Caveat-Regular.ttf);
+}
+
+
+img{
+  width: 300px;
+}
+body{
+  background-color: #011633;
+}
+.judul{
+  color: #F36E3A;
+  font-family: caveatBold;
+  font-size: 4rem;
+  text-align: center;
+}
+.instruksi{
+  color: #FAFAFA;
+  font-family: caveatRegular;
+  font-size: 2rem;
+  text-align: center;
+}
+.highlight{
+  color: #F7DF1D;
+  font-family: caveatRegular;
+  text-align: center;
+}
+.player_name{
+  font-size: 1.5rem;
+}
+
