@@ -15,6 +15,19 @@ img{
 body{
   background-color: #011633;
 }
+.space_2{
+  padding-top: 2rem;
+}
+.space_3{
+  padding-top: 3rem;
+}
+.kotak_pesan{
+  height: 50px;
+  text-align: center;
+  font-family: caveatRegular;
+  font-size: 2rem;
+  padding: 0 15px;
+}
 .judul{
   color: #F36E3A;
   font-family: caveatBold;
@@ -33,6 +46,18 @@ body{
   text-align: center;
 }
 .player_name{
-  font-size: 1.5rem;
+  font-size: 1.9rem;
+}
+.invisible{
+  display: none;
+}
+.menang{
+  background-color: #17F856;
+}
+.kalah{
+  background-color: #F3473A;
+}
+.seri{
+  background-color: #F7DF1D;
 }
 
